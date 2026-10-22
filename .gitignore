@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/clean/*.csv
+!data/clean/README.md
+
+
+# Ignore large merged datasets
+merged/merged_results.csv
+merged/merged_bookings.csv
