@@ -6,7 +6,7 @@ __pycache__/
 data/clean/*.csv
 !data/clean/README.md
 
-
+merged/*.csv
 # Ignore large merged datasets
 merged/merged_results.csv
 merged/merged_bookings.csv
